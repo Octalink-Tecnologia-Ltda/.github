@@ -1,0 +1,2 @@
+# .github
+Automação do PR
